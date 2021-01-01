@@ -7,11 +7,8 @@
 |Keyword|Response|
 |---|---|
 |burrito|What is a burrito?|
-|---|---|
 |go kart|Do you have a go kart?|
-|---|---|
 |dance|Are you a dancer?|
-|---|---|
 
 I am a dance go kart burrito mother.
 * It responded with "Tell me more about your family" ... the reponse for _mother_, the last word, but the first response in the code.
